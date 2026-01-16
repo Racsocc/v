@@ -1,0 +1,11 @@
+# binaries
+v
+dist/
+
+# Go
+*.exe
+*.test
+*.out
+
+# macOS
+.DS_Store
